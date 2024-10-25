@@ -1,6 +1,6 @@
 {
     "name": "customSolutionPackUpgradability",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "fsrMinCompatibility": "7.2.0",
     "type": "solutionpack",
     "local": true,
@@ -16,6 +16,24 @@
     "postInstallConfig": null,
     "date": "2024-10-23T08:50:45+00:00",
     "contents": {
+	"views": {
+            "navigation": [
+                "Dashboard",
+                "Queue & Shift Management",
+                "Incident Response",
+                "Automation",
+                "Resources",
+                "Reports",
+                "Widget Library",
+                "Content Hub",
+                "Help",
+                "User Community",
+                "Credit Card Module",
+                "Debit Card Module",
+                "Company Modules"
+            ]
+        },
+	
         "playbooks": [
             {
                 "name": "SP Playbooks"
